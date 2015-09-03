@@ -1,0 +1,20 @@
+##
+# The following settings control what folders/files are ignored (or not ignored) by Git.
+##
+
+# Plugin excludes.
+.DS_Store
+node_modules/
+
+# Exclude Eclipse IDE files.
+/.settings
+/.buildpath
+/.project
+
+# Exclude composer.phar and helper symlink for composer script.
+/composer
+/composer.phar
+
+# Exclude composer managed vendor directories.
+/vendor
+
