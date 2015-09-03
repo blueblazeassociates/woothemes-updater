@@ -1,0 +1,20 @@
+{
+  "name" : "blueblazeassociates/woothemes-updater",
+  "description" : "Hi there. I'm here to help you manage licenses for your WooThemes products, as well as help out when you need a guiding hand.",
+  "type" : "wordpress-plugin",
+  "homepage" : "http://woothemes.com/products/",
+  "license" : "GPL-2.0+",
+  "authors" : [{
+    "name" : "WooThemes",
+    "homepage" : "http://woothemes.com/",
+    "role" : "Author/Creator"
+  }, {
+    "name" : "Ed Gifford",
+    "homepage" : "http://www.blueblazeassociates.com",
+    "role" : "Composer-fier",
+    "email" : "egifford@blueblazeassociates.com"
+    }
+  ],
+  "keywords" : [
+  ]
+}
